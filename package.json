@@ -1,7 +1,7 @@
 {
   "name": "kokomo-desktop",
   "version": "1.0.0",
-  "description": "Kokomo. On demand. On your desktop",
+  "description": "Kokomo. On demand. On your desktop.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
