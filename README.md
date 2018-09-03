@@ -12,3 +12,7 @@ Kokomo. On demand. On your desktop.
 `npm run build-all`
 
 All executables are created in `./build`
+
+## Icon license
+
+App Icon by Takahiro Kyono from Tokyo, Japan - Mike Love, CC BY 2.0, [https://commons.wikimedia.org/w/index.php?curid=47452975](https://commons.wikimedia.org/w/index.php?curid=47452975)
