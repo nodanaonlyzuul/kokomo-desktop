@@ -1,9 +1,13 @@
 body {
 	background-color:#fe7b7c;
-	font-family: Papyrus,fantasy;
+
+	font-family: Futura,Trebuchet MS,Arial,sans-serif;
 }
 
-.hero-heading {
+.hero-unit h1 {
+  font-family: 'Rock Salt', cursive;
+}
+.hero-unit .hero-heading,p {
   color: #ebe43f;
 }
 
