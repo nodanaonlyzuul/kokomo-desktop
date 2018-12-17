@@ -7,8 +7,19 @@ body {
   font-family: 'Rock Salt', cursive;
 }
 
-.hero-unit .hero-heading, p {
+.hero-unit .hero-heading, p.lead {
   color: #ebe43f;
+}
+
+p {
+  color: black;
+}
+
+pre, code {
+  color: inherit;
+  background-color: inherit;
+  border: none;
+  padding: 0px;
 }
 
 .hero-unit {
